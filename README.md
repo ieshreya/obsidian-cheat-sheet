@@ -183,6 +183,8 @@ Table Cell A  |  Table Cell B
 | Win + Shift + Tab | Next Window | | |
 
 
+| Ctrl l | Creating a Check Box
+
 
 ### You've reached the end now. Hope this helps!
 
