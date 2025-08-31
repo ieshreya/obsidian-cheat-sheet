@@ -2,6 +2,7 @@
 This repository contains all the basic cheatsheets you need to get started to make notes in [obsidian](https://obsidian.md/). If something's missing, add yours by raising an issue here. ^_^
 
 > I am using [Things theme](https://github.com/colineckert/obsidian-things) in the screenshots below.
+
 ### Quick Tips:
 - **To Search for a specific note**: Use Ctrl + P (Cmd + P on Mac).
 - **For Internal Links**: Use `[[note name]]` to create internal links to other notes.
@@ -192,6 +193,7 @@ Tables:
 ```
 
 Tables with Alignment:
+
 | Left Align | Center Align | Right Align |
 | :--------- | :----------: | ----------: |
 | Text       |     Text     |        Text |
@@ -247,7 +249,7 @@ By default, Obsidian does not support `:emoji:` shortcodes. To use them, you can
 
 **Input:** `:smile: :rocket: :tada:`
 
-**Output:** :smile: :rocket: :tada:
+**Output:**: 😀🚀🎉
 
 ---
 
